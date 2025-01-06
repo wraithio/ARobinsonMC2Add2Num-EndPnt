@@ -10,4 +10,5 @@ Utilize Postman to facilitate the data retrieval process.
 
 github [here](https://github.com/wraithio/ARobinsonMC2Add2Num-EndPnt)
 
-### Peer Review by:
+### Peer Review by: Tanush Kumar 
+Peer Review: Code looks neat and works well I dont feel as though you need to change anything. Good Job!
