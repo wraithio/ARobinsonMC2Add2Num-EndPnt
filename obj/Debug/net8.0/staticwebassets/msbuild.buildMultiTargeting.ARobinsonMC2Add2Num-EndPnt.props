@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ARobinsonMC2Add2Num-EndPnt.props" />
+</Project>

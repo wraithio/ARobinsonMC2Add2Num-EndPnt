@@ -8,6 +8,6 @@ Example results, "The sum of 2 and 2 is 4."
 Utilize Postman to facilitate the data retrieval process.
 ---
 
-github [here](https://github.com/wraithio/ARobinsonMC1SayHllo-EndPnt)
+github [here](https://github.com/wraithio/ARobinsonMC2Add2Num-EndPnt)
 
 ### Peer Review by:
